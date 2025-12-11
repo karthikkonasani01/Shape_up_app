@@ -10,10 +10,10 @@ Shape-Up is an easy-to-use fitness tracking web application. Its main goal is to
 Your journey to wellness starts here!
 
 # Team Members
-- Muhamad Miguel Emmara
-- Travis Ogle
-- Sungwoo Cho
-- Ghokkul Muhunthan
+- chaitanya
+- Vishnu vardhan
+- Harshith
+- jaya venkata sai prakash
 
 ## Prerequisites
 
