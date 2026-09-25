@@ -12,7 +12,6 @@ Your journey to wellness starts here!
 # Team Members
 - Karthik
 - chaitanya
-- Vishnu vardhan
 - Harshith
 - jaya venkata sai prakash
 
@@ -81,7 +80,3 @@ This app build with below technologies
 ![Nutrition Checker](https://github.com/Shape-Up-NZ/shape-up-app/blob/main/screenshots/nutrition-checker.png)
 ![Diet Profile](https://github.com/Shape-Up-NZ/shape-up-app/blob/main/screenshots/diet-profile.png)
 ![Meal Plan](https://github.com/Shape-Up-NZ/shape-up-app/blob/main/screenshots/meal-plan.png)
-
-## License
-
-Copyright 2023. Code released under the [MIT license](https://github.com/Shape-Up-NZ/shape-up-app/blob/main/LICENSE).
