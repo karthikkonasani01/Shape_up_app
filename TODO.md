@@ -1,7 +1,7 @@
 # TODO for Dark Theme Implementation
 
 ## Tasks
-- [x] Create dark theme configuration with Material-UI ThemeProvider
+- [x] Create dark theme configuration with Material-UI ThemeProvider 
 - [x] Update all components with dark theme colors and styling
 - [x] Add animations to components (hover effects, page transitions, loading animations)
 - [x] Reduce excessive white space with better spacing and layout
